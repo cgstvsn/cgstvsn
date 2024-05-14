@@ -9,6 +9,7 @@ Right now I'm contiuing to develop my React skills by learning advanced patterns
 ## My skills
 - React
 - Tailwind
+- NextJS
 - Supabase
 - LUA
 - Graphic Design
